@@ -1,0 +1,14 @@
+C:\Users\evely\source\repos\estagio riberão preto\estagio riberão preto\obj\Debug\net8.0\estagio riberão preto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evely\source\repos\estagio riberão preto\estagio riberão preto\obj\Debug\net8.0\estagio riberão preto.AssemblyInfoInputs.cache
+C:\Users\evely\source\repos\estagio riberão preto\estagio riberão preto\obj\Debug\net8.0\estagio riberão preto.AssemblyInfo.cs
+C:\Users\evely\source\repos\estagio riberão preto\estagio riberão preto\obj\Debug\net8.0\estagio riberão preto.csproj.CoreCompileInputs.cache
+C:\Users\evely\source\repos\estagio riberão preto\estagio riberão preto\bin\Debug\net8.0\estagio riberão preto.exe
+C:\Users\evely\source\repos\estagio riberão preto\estagio riberão preto\bin\Debug\net8.0\estagio riberão preto.deps.json
+C:\Users\evely\source\repos\estagio riberão preto\estagio riberão preto\bin\Debug\net8.0\estagio riberão preto.runtimeconfig.json
+C:\Users\evely\source\repos\estagio riberão preto\estagio riberão preto\bin\Debug\net8.0\estagio riberão preto.dll
+C:\Users\evely\source\repos\estagio riberão preto\estagio riberão preto\bin\Debug\net8.0\estagio riberão preto.pdb
+C:\Users\evely\source\repos\estagio riberão preto\estagio riberão preto\obj\Debug\net8.0\estagio riberão preto.dll
+C:\Users\evely\source\repos\estagio riberão preto\estagio riberão preto\obj\Debug\net8.0\refint\estagio riberão preto.dll
+C:\Users\evely\source\repos\estagio riberão preto\estagio riberão preto\obj\Debug\net8.0\estagio riberão preto.pdb
+C:\Users\evely\source\repos\estagio riberão preto\estagio riberão preto\obj\Debug\net8.0\estagio riberão preto.genruntimeconfig.cache
+C:\Users\evely\source\repos\estagio riberão preto\estagio riberão preto\obj\Debug\net8.0\ref\estagio riberão preto.dll
